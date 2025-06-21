@@ -1,0 +1,28 @@
+#navigation {
+            background-color: #f0f0f0;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        #navigation ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        #navigation li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        #navigation a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+
+        #navigation a:hover {
+            text-decoration: underline;
+        }
+
+
